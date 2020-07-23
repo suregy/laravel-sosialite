@@ -1,0 +1,17 @@
+.loading {
+    background: lightgrey;
+    padding: 50px;
+    position: fixed;
+    border-radius: 4px;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    margin: -40px 0 0 -50px;
+    z-index: 2000;
+    display: none;
+}
+
+/* custom thumb */
+.cstmb { 
+    max-height:70px; height:50px; 
+}
